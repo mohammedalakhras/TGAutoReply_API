@@ -1,0 +1,26 @@
+{
+  "name": "hexashop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "buffer": "^6.0.3",
+    "graceful-fs": "^4.2.11",
+    "next": "^13.5.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "@gradio/client": "^0.4.2",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
